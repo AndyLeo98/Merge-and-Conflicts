@@ -1,4 +1,4 @@
-# Merge-and-Conflicts
+# REMOTE
 
 Wow this is amazing!
 
