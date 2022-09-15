@@ -1,4 +1,4 @@
-# Merge-and-Conflicts
+# LOCAL
 
 Wow this is amazing!
 
